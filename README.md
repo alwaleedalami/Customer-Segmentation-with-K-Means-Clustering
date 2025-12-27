@@ -9,6 +9,9 @@ The dataset contains demographic and transactional information for retail custom
 - Spending score
 - Customer identifiers
 
+Dataset included for reproducibility.
+
+
 ## Methodology
 - Performed exploratory data analysis (EDA) to understand customer behavior patterns
 - Applied feature scaling to prepare data for clustering
